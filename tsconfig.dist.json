@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "benchmark",
+    "example",
+    "**/*.spec.ts"
+  ],
+  "compilerOptions": {
+    "isolatedModules": true,
+    "inlineSources": true
+  }
+}
