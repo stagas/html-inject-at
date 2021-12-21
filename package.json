@@ -17,7 +17,7 @@
     "selector"
   ],
   "bin": {
-    "my-cli-app": "dist/cjs/cli.js"
+    "html-inject-at": "dist/cjs/cli.js"
   },
   "module": "dist/esm/index.js",
   "main": "dist/cjs/index.js",
