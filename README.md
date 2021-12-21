@@ -50,7 +50,7 @@ Examples:
 
 ### inject
 
-[src/index.ts:42-62](https://github.com/stagas/html-inject-at/blob/8fe9814bb77e2c124b4b9b71c75e63971db9a34d/src/index.ts#L42-L62 "Source code on GitHub")
+[src/index.ts:42-62](https://github.com/stagas/html-inject-at/blob/b7538587756e55c33d0ef6360fa62bbc400ad25e/src/index.ts#L42-L62 "Source code on GitHub")
 
 Inject text in an HTML file at a certain element given a selector.
 
